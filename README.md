@@ -3,4 +3,4 @@
 <h1 align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"</h1>
 </p>
 <br>
-<h1> C# Backend Developer</h1>
+<h1> .NET Developer</h1>
